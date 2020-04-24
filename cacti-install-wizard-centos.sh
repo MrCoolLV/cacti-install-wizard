@@ -34,6 +34,7 @@ sudo su  ; fi
 
 echo "this script requires git and unzip"
 yum install -y git nano openssh-server openssh-client unzip 
+yum install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm -y
 
 
 
