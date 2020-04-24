@@ -5,8 +5,8 @@ this script requires git and unzip<br>
 To use the script <br>
 git clone https://github.com/MrCoolLV/cacti-install-wizard.git <br>
 cd cacti-auto-install <br>
-chmod +x cacti-install-wizard-centos.sh.sh <br>
-./cacti-setup-wizard.sh <br>
+chmod +x cacti-install-wizard-centos.sh <br>
+./cacti-install-wizard-centos.sh <br>
 RUN THE SCRIPT AS ROOT!!
 
 
