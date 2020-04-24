@@ -3,7 +3,7 @@ Cacti server setup wizard <br>
 this script requires git and unzip<br>
 
 To use the script <br>
-yum install git unzip -y
+yum install git unzip -y <br>
 git clone https://github.com/MrCoolLV/cacti-install-wizard.git <br>
 cd cacti-auto-install <br>
 chmod +x cacti-install-wizard-centos.sh <br>
