@@ -33,7 +33,7 @@ sudo su  ; fi
 
 
 echo "this script requires git and unzip"
-yum install -y git unzip
+yum install -y git nano openssh-server openssh-client unzip 
 
 
 
